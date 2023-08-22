@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali6405" alt="ali6405" /></a> </p>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **More advanced python related projects**
 
 - 🌱 I’m currently learning **Python and C++**
 
@@ -13,7 +13,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <a href="https://instagram.com/muhammad_alibin_sarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_alibin_sarwar" height="30" width="40" /></a>
 </p>
